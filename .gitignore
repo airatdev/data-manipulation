@@ -1,3 +1,7 @@
 AFINN-111.txt
 output.txt
 twitterstream.py
+*.pyc
+*.json
+*.html
+MapReduce.py
